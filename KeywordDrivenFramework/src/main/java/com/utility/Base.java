@@ -17,8 +17,7 @@ public class Base {
 	protected static FileInputStream file;
 
 	/**Method: To Initialize the WebDriver
-	 * @param browserName
-	 * @return WebDriver
+	 * 
 	 */
 	public WebDriver init_Driver(String browserName) {
 
@@ -31,7 +30,7 @@ public class Base {
 	}
 
 	/**Method: To Initialize the Property file
-	 * @return Properties
+	 * 
 	 */
 	public Properties intit_Properties() {
 		

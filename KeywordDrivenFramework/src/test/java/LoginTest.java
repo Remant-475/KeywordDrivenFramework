@@ -12,6 +12,6 @@ private KeywordDrivenEngine keyword;
 	public void loginTest() {
 		
 		keyword = new KeywordDrivenEngine();
-		keyword.startExecution("ScenarioDataTest");
+		keyword.startExecution("LoginTestData");
 }
 }
